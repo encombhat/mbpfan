@@ -51,7 +51,7 @@
 #define max(a,b) ((a) > (b) ? (a) : (b))
 
 #define CORETEMP_PATH "/sys/devices/platform/coretemp.0"
-#define APPLESMC_PATH "/sys/devices/platform/applesmc.768"
+#define APPLESMC_PATH "/sys/devices/platform/APP0001:00"
 
 /* temperature thresholds
  * low_temp - temperature below which fan speed will be at minimum
